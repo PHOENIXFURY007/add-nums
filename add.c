@@ -1,7 +1,7 @@
 #include<stdio.io>
 int main()
 {
-printf("add 5 numbers");
+printf("add five numbers");
 return 0;
 
 }
